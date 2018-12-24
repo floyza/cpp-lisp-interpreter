@@ -1,5 +1,5 @@
 CXX=g++
-RM=del
+RM=rm -f
 
 CXXFLAGS=-Wall
 
